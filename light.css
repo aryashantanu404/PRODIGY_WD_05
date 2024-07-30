@@ -107,7 +107,7 @@ align-items: center;
 
    .card{
     width:370px;
-    height: 80vh;
+    height: 85vh;
 
    }
    .searchbox{
@@ -132,8 +132,23 @@ button{
 .weather_conditions{
     display:flex;
     justify-content: space-evenly;
-    margin-top: 80px;
+    margin-top: 65px;
     margin-bottom: 10px;
     text-align: center;
 }
+.temp_feel{
+    color:white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 0;
+    text-align: center;
+}
+.temp_limits{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0px;
+    color:white;
+    font-size: 20px;
+}
+
 }
