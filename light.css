@@ -132,7 +132,7 @@ button{
 .weather_conditions{
     display:flex;
     justify-content: space-evenly;
-    margin-top: 70px;
+    margin-top: 50px;
     margin-bottom: 10px;
     text-align: center;
 }
@@ -140,15 +140,15 @@ button{
     color:white;
     font-size: 25px;
     margin-top: 20px;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
     text-align: center;
 }
 .temp_limits{
     display: flex;
     justify-content: space-evenly;
-    margin-top: 30px;
+    margin-top: 20px;
     color:white;
-    font-size: 30px;
+    font-size: 25px;
 }
 .temp_limits img{
     margin-right: 0px;
