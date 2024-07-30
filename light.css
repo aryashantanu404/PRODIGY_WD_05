@@ -154,4 +154,8 @@ button{
     margin-right: 0px;
     width:80px;
 }
+.weather_conditions img{
+    width:70px;
+    text-align: center;
+}
 }
