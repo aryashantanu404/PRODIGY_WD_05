@@ -132,7 +132,7 @@ button{
 .weather_conditions{
     display:flex;
     justify-content: space-evenly;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 10px;
     text-align: center;
 }
@@ -140,7 +140,7 @@ button{
     color:white;
     font-size: 25px;
     margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     text-align: center;
 }
 .temp_limits{
