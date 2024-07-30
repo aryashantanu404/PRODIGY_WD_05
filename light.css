@@ -106,13 +106,13 @@ align-items: center;
 @media(max-width:450px){
 
    .card{
-    width:420px;
+    width:400px;
     height: 100vh;
 
    }
    .searchbox{
     margin: 15px 0px 5px 10px;
-    width: 380px;
+    width: 350px;
     height: 35px;
     text-align: center;
     font-size: 15px;
