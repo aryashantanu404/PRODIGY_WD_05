@@ -59,7 +59,7 @@ align-items: center;
 }
 .temperature img{
     padding: 0px;
-    height: 90px;
+    height: 100px;
     position: relative;
     margin:1px;
 }
@@ -138,9 +138,9 @@ button{
 }
 .temp_feel{
     color:white;
-    font-size: 20px;
+    font-size: 25px;
     margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
     text-align: center;
 }
 .temp_limits{
@@ -148,7 +148,10 @@ button{
     justify-content: space-evenly;
     margin-top: 30px;
     color:white;
-    font-size: 20px;
+    font-size: 30px;
 }
-
+.temp_limits img{
+    margin-right: 0px;
+    width:80px;
+}
 }
